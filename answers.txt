@@ -21,7 +21,13 @@ results in a tidier history but should be avoided on shared branches
  to prevent confusion.
 
 
+Q4: What skills do you hope to improve during this course?
 
-
+Answer: During this course, I hope to improve my skills in data wrangling,
+specifically in cleaning and organizing large datasets, as well
+as enhancing my ability to apply machine learning algorithms to
+solve real-world problems. Additionally, I aim to gain a deeper
+understanding of data visualization techniques to better communicate
+insights from data
 
 
