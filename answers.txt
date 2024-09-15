@@ -1,0 +1,6 @@
+Q1: Why might be consider using git?
+
+Answer: Easier to manage code, keep track of different versions of the program
+with an option to work individually on different features of the program.
+
+
