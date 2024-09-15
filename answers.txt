@@ -8,3 +8,20 @@ Q2: What field could data science be applied to? Give and Example and how it mig
 
 Answer: Data Science can be applied to Consumer goods industry to understand customer
 shopping and behavior patterns
+
+Q3: What is the difference between merging and rebasing?
+
+Answer: Merging combines branches by creating a merge commit,
+preserving the full history with a non-linear structure,
+which is useful for collaboration but can clutter the commit log.
+Rebasing, on the other hand, moves commits from one branch on top
+of another, rewriting the history to create a clean, linear commit
+log. While merging keeps the development history intact, rebasing
+results in a tidier history but should be avoided on shared branches
+ to prevent confusion.
+
+
+
+
+
+
